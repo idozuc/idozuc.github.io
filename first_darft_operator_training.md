@@ -1,8 +1,17 @@
-# Operator training #
+<!-- vscode-markdown-toc -->
+* 1. [Prerequisites ##](#Prerequisites)
+* 2. [Training process ##](#Trainingprocess)
+	* 2.1. [Health and safety ###](#Healthandsafety)
+
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc --># Operator training #
 
 Training the operator is a crucial step for a functioning Beastro restaurant. To ensure training goes smoothly please read this document with care and follow the steps.
 
-## Prerequisites ##
+##  1. <a name='Prerequisites'></a>Prerequisites ##
 
 Before you start training the operator and before arriving to site please make sure:
 
@@ -14,11 +23,11 @@ Before you start training the operator and before arriving to site please make s
 6. There are Heat-proof and latex gloves on site to use during training.
 7. There are pots, pans, knives, cutting boards and some kind of cooker on site. this is not a must-have but will allow for better training.
    
-## Training process ## 
+##  2. <a name='Trainingprocess'></a>Training process ## 
 
 You arrived at site and ready to start training with the operator. Introduce yourself to the operator and start the process below.
 
-### Health and safety ###
+###  2.1. <a name='Healthandsafety'></a>Health and safety ###
 
 The most important thing is that the operator stays safe during training and working with the Beastro.
 
